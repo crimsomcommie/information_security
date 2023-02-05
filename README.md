@@ -52,11 +52,11 @@ pesquise o endereço de uma loja qualquer (preferencialmente uma longe de você)
 
 Note que senhas longas por si só não lhe dão segurança. Senhas que são frases longas, mesmo que sem sentido(ou seja, uma sequência de palavras), podem ser facilmente descobertas por técnicas básicas de descobrimento de senha; alguns sites também podem não guardar a senha inteira(e.g. Hotmail até 2012), fazendo uma longa sequencia de palavras ser inútil.
 
-O uso de sistemas de gerenciamento de senhas é recomendável pois eles podem criar e salvar senhas fortes facilmente (Para computadores (Windows, Linux Mac): (KeePassXC)[https://keepassxc.org/docs/KeePassXC_GettingStarted.html]; Celulares: LessPass ((Android)[https://play.google.com/store/apps/details?id=com.lesspass.android&hl=en&gl=US], (iOS)[https://apps.apple.com/us/app/lesspass/id1531215924])). Lembre de utilizar uma senha forte para acessar seu gerenciador de senhas. 
+O uso de sistemas de gerenciamento de senhas é recomendável pois eles podem criar e salvar senhas fortes facilmente (Para computadores (Windows, Linux Mac): [KeePassXC](https://keepassxc.org/docs/KeePassXC_GettingStarted.html); Celulares: LessPass ([Android](https://play.google.com/store/apps/details?id=com.lesspass.android&hl=en&gl=US), [iOS](https://apps.apple.com/us/app/lesspass/id1531215924))). Lembre de utilizar uma senha forte para acessar seu gerenciador de senhas. 
 
 Navegadores como Chrome e Firefox já sugerem senhas ao entrar em páginas de sign up e salvar seus dados de log-in, porém um gerenciador externo é preferível. Ver [Navegadores](##Navegadores-Padrões) para decidir qual navegador utilizar.
 
-Caso opte por não utilizar um gerenciador, verifique se sua senha é forte antes de usar (aqui)[https://passwordsecurity.info/].
+Caso opte por não utilizar um gerenciador, verifique se sua senha é forte antes de usar [aqui](https://passwordsecurity.info/).
 
 Lembre de nunca copiar e colar (ctr+c, ctr+v) sua senha em qualquer computador!
 
@@ -101,6 +101,6 @@ Pode-se também utilizar [serviços onlines](https://www.imgonline.com.ua/eng/de
 
 
 ## Resources 
-(Password security and a comparison of Password Managers)[https://ss64.com/docs/security.html]
-(Validador de força de senha)[https://passwordsecurity.info/]
-(Have I been pwned)[https://haveibeenpwned.com/]
+[Password security and a comparison of Password Managers](https://ss64.com/docs/security.html)
+[Validador de força de senha](https://passwordsecurity.info/)
+[Have I been pwned](https://haveibeenpwned.com/)
