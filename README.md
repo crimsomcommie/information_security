@@ -71,8 +71,8 @@ Diversos sites atualmente possuem verificação por duas etapas, isso é, para r
 Nota sobre GMail: como o GMail está atrelado a uma conta do Google, se você logar no seu gmail suas pesquisas serão, por padrão, salvas pela google, independentemente de qual máquina você estiver utilizando para fazer a pesquisa.
 
 
-### Fotos e Geolocalização
-Fotos contém diversas meta-informações (informações sobre a foto) entre elas: modelo da câmera, coordenadas GPS de onde foi a foto foi tirada, nome do proprietário, comentários, áudio incorporado, data em que foto foi tirada, descrição, palavras-chave. Isso significa que uma mera foto pode dar informações de onde você está e quem você é mesmo sem nada de relevante aparecer na imagem. Limpar esses dados é relativamente simples. No Windows, ao clicar em `Propriedades` -> `Detalhes` -> `Remove Propriedades e Informações Pessoais` é possível remover esses meta-dados.
+### Fotos e Capturas de Tela
+Imagens contém diversas meta-informações (informações sobre a imagem), valendo para fotos, capturas de tela e imagens feitas por aplicativos (e.g. Photoshot) entre elas: modelo da câmera, coordenadas GPS de onde foi a imagem foi tirada, nome do proprietário, comentários, áudio incorporado, data, descrição, palavras-chave. Isso significa que uma mera imagem pode dar informações de onde você está e quem você é mesmo sem nada de relevante aparecer na imagem. Limpar esses dados é relativamente simples. No Windows, ao clicar em `Propriedades` -> `Detalhes` -> `Remove Propriedades e Informações Pessoais` é possível remover esses meta-dados.
 
 Pode-se também utilizar [serviços onlines](https://www.imgonline.com.ua/eng/delete-exif.php) para deletar esses meta-dados ou aplicativos na app/play store.
 
