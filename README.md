@@ -41,3 +41,66 @@ Ao se compartilhar nome e CPF, veja se é realmente necessário de se utilizar s
 utilize um nome falso qualquer e use um [gerador de CPF](https://www.4devs.com.br/gerador_de_cpf). É possível também criar
 endereços de [email temporários](https://temp-mail.org/pt/) ([segunda opção](https://www.guerrillamail.com/pt/)) para sites que cobram email. Se for necessário informar a moradia,
 pesquise o endereço de uma loja qualquer (preferencialmente uma longe de você) e use-a.
+
+
+### Sistema de Criação de Senhas
+É importante utilizar senhas fortes e ter múltiplas senhas para sites diferentes. Procure não utilizar em senhas informações pessoais, como nome de mãe, filho, data de aniversário, comida favorita, etc. Algumas dicas para se utilizar senhas fortes são:
+- Evite utilizar palavras reais;
+- Não coloque seu usuário na senha;
+- Utilize pelo menos 8 caracteres (senhas maiores são desejáveis);
+- utilize letras maiúsculas, minúsculas, números e símbolos especiais (e.g. `@`, `$`);
+
+Note que senhas longas por si só não lhe dão segurança. Senhas que são frases longas, mesmo que sem sentido(ou seja, uma sequência de palavras), podem ser facilmente descobertas por técnicas básicas de descobrimento de senha; alguns sites também podem não guardar a senha inteira(e.g. Hotmail até 2012), fazendo uma longa sequencia de palavras ser inútil.
+
+O uso de sistemas de gerenciamento de senhas é recomendável pois eles podem criar e salvar senhas fortes facilmente (Para computadores (Windows, Linux Mac): (KeePassXC)[https://keepassxc.org/docs/KeePassXC_GettingStarted.html]; Celulares: LessPass ((Android)[https://play.google.com/store/apps/details?id=com.lesspass.android&hl=en&gl=US], (iOS)[https://apps.apple.com/us/app/lesspass/id1531215924])). Lembre de utilizar uma senha forte para acessar seu gerenciador de senhas. 
+
+Navegadores como Chrome e Firefox já sugerem senhas ao entrar em páginas de sign up e salvar seus dados de log-in, porém um gerenciador externo é preferível. Ver [Navegadores](##Navegadores-Padrões) para decidir qual navegador utilizar.
+
+Caso opte por não utilizar um gerenciador, verifique se sua senha é forte antes de usar (aqui)[https://passwordsecurity.info/].
+
+Lembre de nunca copiar e colar (ctr+c, ctr+v) sua senha em qualquer computador!
+
+
+#### Verificação em Duas Etapas
+Diversos sites atualmente possuem verificação por duas etapas, isso é, para realizar login em um máquina desconhecida, é necessário que o usuário aceite o login por outro meio. A forma de se aceitar varia, podendo ser inserindo um código enviado por email ou SMS na tela de login, ou aceitando o dispositivo novo em outro já conhecido. Recomenda-se sempre utilizar a verificação em duas etapas, pois ela fortalece a segurança contra indivíduos desconhecidos que tenham conseguido sua senha de um site ou aplicativo.
+
+
+### Utilização de Emails
+É recomendável utilizar múltiplos emails com diferentes objetivos. Não apenas você pode ser monitorado e identificado através do uso de seu email, suponha que um site com seu email pessoal seja hackeado e sua senha nesse site descoberto. Caso utilize o mesmo email e senha em outros sites, quem tiver descoberto a senha agora tem acesso à sua conta de diferentes sites (e no pior dos casos de seu email principal). Use, por exemplo, em conjunto de seu email pessoal um email para compras (e.g. `jo.soares@gmail.com`), redes sociais (`bruno.mars@gmail.com`), etc.
+
+Nota sobre GMail: como o GMail está atrelado a uma conta do Google, se você logar no seu gmail suas pesquisas serão, por padrão, salvas pela google, independentemente de qual máquina você estiver utilizando para fazer a pesquisa.
+
+
+### Fotos e Geolocalização
+Fotos contém diversas meta-informações (informações sobre a foto) entre elas: modelo da câmera, coordenadas GPS de onde foi a foto foi tirada, nome do proprietário, comentários, áudio incorporado, data em que foto foi tirada, descrição, palavras-chave. Isso significa que uma mera foto pode dar informações de onde você está e quem você é mesmo sem nada de relevante aparecer na imagem. Limpar esses dados é relativamente simples. No Windows, ao clicar em `Propriedades` -> `Detalhes` -> `Remove Propriedades e Informações Pessoais` é possível remover esses meta-dados.
+
+Pode-se também utilizar [serviços onlines](https://www.imgonline.com.ua/eng/delete-exif.php) para deletar esses meta-dados ou aplicativos na app/play store.
+
+
+## Navegando de Forma Anônima
+
+### Search Engines
+
+### Navegadores Padrões
+
+### Tor
+
+
+## Trocando Mensagens de Forma Anônima
+
+### Criptografia
+
+### O que é Peer 2 Peer
+
+### Aplicativos Seguros
+
+
+## Ações Avançadas de Segurança
+
+### Criando um Proxy
+
+
+## Resources 
+(Password security and a comparison of Password Managers)[https://ss64.com/docs/security.html]
+(Validador de força de senha)[https://passwordsecurity.info/]
+(Have I been pwned)[https://haveibeenpwned.com/]
