@@ -39,5 +39,5 @@ deseja ir (e.g. colocar o endereço de uma loja que fica perto de onde você rea
 
 Ao se compartilhar nome e CPF, veja se é realmente necessário de se utilizar seu nome e CPF real. Caso não seja, 
 utilize um nome falso qualquer e use um [gerador de CPF](https://www.4devs.com.br/gerador_de_cpf). É possível também criar
-endereços de [email temporários](https://temp-mail.org/pt/) para sites que cobram email. Se for necessário informar a moradia,
+endereços de [email temporários](https://temp-mail.org/pt/) ([segunda opção](https://www.guerrillamail.com/pt/)) para sites que cobram email. Se for necessário informar a moradia,
 pesquise o endereço de uma loja qualquer (preferencialmente uma longe de você) e use-a.
