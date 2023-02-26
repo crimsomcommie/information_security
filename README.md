@@ -166,3 +166,7 @@ LessPass ([Android](https://play.google.com/store/apps/details?id=com.lesspass.a
 [Ubuntu](https://ubuntu.com/) 
 
 [Linux Mint](https://linuxmint.com/)
+
+
+### Deletar metadata de Fotos
+[serviços onlines](https://www.imgonline.com.ua/eng/delete-exif.php)
